@@ -9,10 +9,7 @@ A privacy-focused, browser-based personal finance toolkit for comparing investme
 **[Launch the planner]([https://pwnren.github.io/financial-growth-debt-planner/](https://github.com/pwnren/financial-growth-debt-planner/blob/main/dashboard.png))** · **[Download standalone HTML](https://raw.githubusercontent.com/pwnren/financial-growth-debt-planner/main/index.html)**
 
 
-
-## Preview
-
-![Dashboard](screenshots/dashboard.png)
+![Financial Growth & Debt Planner Dashboard](./dashboard.png)
 
 ## Features
 
