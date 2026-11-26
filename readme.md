@@ -6,7 +6,7 @@ A privacy-focused, browser-based personal finance toolkit for comparing investme
 
 [![Launch financial planner](https://img.shields.io/badge/launch-financial%20planner-238636?style=for-the-badge)](https://pwnren.github.io/financial-growth-debt-planner/)
 
-**[Launch the planner]([https://pwnren.github.io/financial-growth-debt-planner/](https://github.com/pwnren/financial-growth-debt-planner/blob/main/dashboard.png) )** · **[Download standalone HTML](https://raw.githubusercontent.com/pwnren/financial-growth-debt-planner/main/index.html)**
+**[Launch the planner]([https://pwnren.github.io/financial-growth-debt-planner/](https://github.com/pwnren/financial-growth-debt-planner/blob/main/dashboard.png))** · **[Download standalone HTML](https://raw.githubusercontent.com/pwnren/financial-growth-debt-planner/main/index.html)**
 
 
 
